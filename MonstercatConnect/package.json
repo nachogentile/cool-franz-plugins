@@ -1,0 +1,23 @@
+{
+  "name": "Monstercat Connect",
+  "version": "1.0.0",
+  "description": "Monstercat Connect",
+  "main": "index.js",
+  "author": "Nate <nate@nategentile.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://connect.monstercat.com/",
+    "serviceName": "Monstercat",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
